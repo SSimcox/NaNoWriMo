@@ -1,7 +1,7 @@
-# What The Woods Are For
-## A novel by Steven Simcox
+### What The Woods Are For
+A novel by Steven Simcox
 
-# Chapter 1
-## Roots
+### Chapter 1
+#### Roots
 
 
